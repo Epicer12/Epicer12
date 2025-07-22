@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicer12&label=Profile%20views&color=000000&style=plastic" alt="epicer12" /> </p>
 
-- 🌱 I’m currently learning **Java and Java related Desktop GUI Development**
+- 🌱 I’m currently learning **Java and Java related Desktop GUI Development, and Game Development tools**
 
 - ⚡ Fun fact **Gaming Fan**
 
