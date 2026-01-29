@@ -14,7 +14,7 @@ jobs:
           # --- PURE ART SETTINGS ---
           base: "" 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           
           # --- CLEANUP ---
           config_order: isocalendar
