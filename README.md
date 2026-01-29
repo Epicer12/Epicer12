@@ -1,23 +1,57 @@
-<h1 align="center">🖥 | Hasun Tisera</h1>
-<h3 align="center">Bits, Bytes, and Breakthroughs</h3>
+<h1 align="center">Hi 👋, I'm Hasun Tisera</h1>
+<h3 align="center">Student Developer | Game Dev and AI/ML Enthusiast</h3>
+<p align="center"><i>"Everything is possible for one who believes - Mark 9:23"</i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epicer12&label=Profile%20views&color=000000&style=plastic" alt="epicer12" /> </p>
-
-- 🌱 I’m currently learning **Java and Java related Desktop GUI Development, and Game Development tools**
-
-- ⚡ Fun fact **Gaming Fan**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasun tisera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasun tisera" height="30" width="40" /></a>
-<a href="https://discord.gg/hnepicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hnepicer" height="30" width="40" /></a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=epicer12&label=Profile%20views&color=000000&style=plastic" alt="epicer12" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicer12&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="epicer12" /></p>
+<div>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&size=30&quote=CHANGE%20DOES%20NOT%20COME%20BY%20HOPE,%20IT%20COMES%20BY%20A%20DECISION" align="right" width="250" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicer12&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="epicer12" /></p>
+### 💫 About Me
+🎓 Student at **Informatics Institute of Technology**\
+🖥️ Building **Peasy** – an AI-powered PC Building Assistant  
+☁️ Created **RenderLift** – a cloud-based Blender rendering platform  
+🚀 Interested in **Computer Vision, Web Apps, Cloud & 3D Tools**\
+🎮 Plays **Minecraft, MC Dungeons & the genre of PSP Games**\
+💬 Let's talk about **AI trends, 3D workflows, or the Best Indie Games of the Year**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epicer12&theme=dark" alt="epicer12" /></p>
+</div>
+
+<br clear="right"/>
+
+---
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/901077747626041364)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasun-tisera)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Every-Librarian-3343/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1DdCvLziGcupIC7RuVEsmw)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hntsoftwares@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+| Languages | Frontend | Backend & APIs |
+|:--- |:--- |:--- |
+| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+
+| DevOps / Version Control | 3D / Game Dev | Design & Productivity |
+|:--- |:--- |:--- |
+| ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
+
+---
+
+## ℹ️ Stats
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicer12&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="epicer12" height="148"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epicer12&theme=dark" alt="epicer12" height="148"/>
+<img align="right" src="github-metrics.svg?v=2" alt="3D Calendar" height="148"/>
+</div>
+<br clear="right"/>
+
+---
