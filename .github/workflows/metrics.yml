@@ -12,15 +12,13 @@ jobs:
           filename: github-metrics.svg
           
           # --- PURE ART SETTINGS ---
-          base: ""                           # Hides all GitHub metadata
-          plugin_introduction: no            # Hides the intro text
+          base: "" 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # --- REMOVE TITLES & FOOTERS ---
-          plugin_isocalendar_extrastats: no  # Removes the "Streak" and "Average" text
-          config_order: isocalendar          # Forces only the artwork to render
-          
-          # --- THEME ---
+          # --- CLEANUP ---
+          config_order: isocalendar
           template: classic
-          config_timezone: Asia/Colombo
+          
+          # --- FORCE PUSH SETTINGS ---
+          committer_token: ${{ secrets.GITHUB_TOKEN }} # Use the built-in token to push
