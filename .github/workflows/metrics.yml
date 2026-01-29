@@ -1,4 +1,4 @@
-name: Epicer12 Footer Metrics
+name: Epicer12 Isometric Art Only
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -11,28 +11,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           
-          # --- 1. LAYOUT & STYLE ---
-          base: ""                           # REMOVES the duplicate name/bio/header
-          template: classic
-          config_timezone: Asia/Colombo
-          
-          # --- 2. THE FOOTER CONTENT ---
-          
-          # Artwork (Full Year)
+          # --- PURE ART SETTINGS ---
+          base: ""                           # Hides all GitHub metadata
+          plugin_introduction: no            # Hides the intro text
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Language Analysis
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          # --- REMOVE TITLES & FOOTERS ---
+          plugin_isocalendar_extrastats: no  # Removes the "Streak" and "Average" text
+          config_order: isocalendar          # Forces only the artwork to render
           
-          # Habits & Activity
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          
-          # --- 3. SIDE-BY-SIDE CONFIG ---
-          # This forces the content to wrap into two columns to be wider and shorter
-          config_order: isocalendar, languages, habits
+          # --- THEME ---
+          template: classic
+          config_timezone: Asia/Colombo
