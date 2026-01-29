@@ -47,11 +47,14 @@
 ---
 
 ## ℹ️ Stats
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicer12&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="epicer12" height="148"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epicer12&theme=dark" alt="epicer12" height="148"/>
-<img align="right" src="github-metrics.svg?v=2" alt="3D Calendar" height="148"/>
-</div>
-<br clear="right"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=epicer12&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="top langs" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epicer12&theme=dark" alt="streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="github-metrics.svg?v=3" alt="3D Calendar" height="200" />
+</p>
 
 ---
